@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test Suite">
+    <test verbose="2" preserve-order="true" name="Test">
+        <classes>
+            <class name="SearchItemTest"/>
+            <class name="TodaysDealTest" />
+        </classes>
+    </test>
+</suite>
